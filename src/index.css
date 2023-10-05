@@ -1,0 +1,43 @@
+/* counter.css */
+
+/* Section styles */
+section {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Paragraph styles for displaying the count */
+p {
+  font-size: 36px;
+  margin: 0;
+}
+
+/* Button styles */
+button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Input styles */
+input {
+  font-size: 24px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button container styles */
+div {
+  margin-top: 20px;
+}
